@@ -1,0 +1,15 @@
+#Gradle
+.gradle/
+build/
+
+#IntelliJ IDEA
+.idea
+.idea/
+*.iml
+*.ipr
+*.iws
+/out
+/out/*.*
+
+#Compiled source
+*.class
